@@ -1,0 +1,28 @@
+C:\Users\ngoch\source\repos\WpfCompresse decompresse\bin\Debug\net8.0-windows\WpfCompresse decompresse.exe
+C:\Users\ngoch\source\repos\WpfCompresse decompresse\bin\Debug\net8.0-windows\WpfCompresse decompresse.deps.json
+C:\Users\ngoch\source\repos\WpfCompresse decompresse\bin\Debug\net8.0-windows\WpfCompresse decompresse.runtimeconfig.json
+C:\Users\ngoch\source\repos\WpfCompresse decompresse\bin\Debug\net8.0-windows\WpfCompresse decompresse.dll
+C:\Users\ngoch\source\repos\WpfCompresse decompresse\bin\Debug\net8.0-windows\WpfCompresse decompresse.pdb
+C:\Users\ngoch\source\repos\WpfCompresse decompresse\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ngoch\source\repos\WpfCompresse decompresse\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ngoch\source\repos\WpfCompresse decompresse\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ngoch\source\repos\WpfCompresse decompresse\obj\Debug\net8.0-windows\WpfCompresse decompresse_MarkupCompile.cache
+C:\Users\ngoch\source\repos\WpfCompresse decompresse\obj\Debug\net8.0-windows\WpfCompresse decompresse.g.resources
+C:\Users\ngoch\source\repos\WpfCompresse decompresse\obj\Debug\net8.0-windows\WpfCompresse decompresse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoch\source\repos\WpfCompresse decompresse\obj\Debug\net8.0-windows\WpfCompresse decompresse.AssemblyInfoInputs.cache
+C:\Users\ngoch\source\repos\WpfCompresse decompresse\obj\Debug\net8.0-windows\WpfCompresse decompresse.AssemblyInfo.cs
+C:\Users\ngoch\source\repos\WpfCompresse decompresse\obj\Debug\net8.0-windows\WpfCompresse decompresse.csproj.CoreCompileInputs.cache
+C:\Users\ngoch\source\repos\WpfCompresse decompresse\obj\Debug\net8.0-windows\WpfCompresse decompresse.dll
+C:\Users\ngoch\source\repos\WpfCompresse decompresse\obj\Debug\net8.0-windows\refint\WpfCompresse decompresse.dll
+C:\Users\ngoch\source\repos\WpfCompresse decompresse\obj\Debug\net8.0-windows\WpfCompresse decompresse.pdb
+C:\Users\ngoch\source\repos\WpfCompresse decompresse\obj\Debug\net8.0-windows\WpfCompresse decompresse.genruntimeconfig.cache
+C:\Users\ngoch\source\repos\WpfCompresse decompresse\obj\Debug\net8.0-windows\ref\WpfCompresse decompresse.dll
+C:\Users\ngoch\source\repos\WpfCompresse decompresse\obj\Debug\net8.0-windows\WpfCompresse decompresse.csproj.AssemblyReference.cache
+C:\Users\ngoch\source\repos\WpfCompresse decompresse\obj\Debug\net8.0-windows\WpfCompresse decompresse.csproj.ResolveComReference.cache
+C:\Users\ngoch\source\repos\WpfCompresse decompresse\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\ngoch\source\repos\WpfCompresse decompresse\bin\Debug\net8.0-windows\Ookii.Dialogs.Wpf.dll
+C:\Users\ngoch\source\repos\WpfCompresse decompresse\obj\Debug\net8.0-windows\WpfCompr.ED15BA1B.Up2Date
+C:\Users\ngoch\source\repos\WpfCompresse decompresse\bin\Debug\net8.0-windows\Renci.SshNet.dll
+C:\Users\ngoch\source\repos\WpfCompresse decompresse\bin\Debug\net8.0-windows\SshNet.Security.Cryptography.dll
+C:\Users\ngoch\source\repos\WpfCompresse decompresse\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\Users\ngoch\source\repos\WpfCompresse decompresse\obj\Debug\net8.0-windows\LoginWindow.g.cs
